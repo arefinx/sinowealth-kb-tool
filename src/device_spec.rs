@@ -129,6 +129,12 @@ pub const DEVICE_ROYALKLUDGE_RK61: DeviceSpec = DeviceSpec {
     ..DEVICE_BASE_SH68F90
 };
 
+pub const DEVICE_ROYALKLUDGE_RK61_TRI: DeviceSpec = DeviceSpec {
+    vendor_id: 0x258a,
+    product_id: 0x0055,
+    ..DEVICE_BASE_SH68F90
+};
+
 pub const DEVICE_ROYALKLUDGE_RK68_ISO_RETURN: DeviceSpec = DeviceSpec {
     vendor_id: 0x258a,
     product_id: 0x00a9,
@@ -283,6 +289,7 @@ pub static DEVICES: Map<&'static str, DeviceSpec> = phf_map! {
     "redragon-k658-pro-se" => DEVICE_REDRAGON_K658_PRO_SE,
     "royalkludge-rk100" => DEVICE_ROYALKLUDGE_RK100,
     "royalkludge-rk61" => DEVICE_ROYALKLUDGE_RK61,
+    "royalkludge-rk61-tri" => DEVICE_ROYALKLUDGE_RK61_TRI,
     "royalkludge-rk68-bt-dual" => DEVICE_ROYALKLUDGE_RK68_BT_DUAL,
     "royalkludge-rk68-iso-return" => DEVICE_ROYALKLUDGE_RK68_ISO_RETURN,
     "royalkludge-rk71" => DEVICE_ROYALKLUDGE_RK71,
