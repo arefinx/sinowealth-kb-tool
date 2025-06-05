@@ -130,7 +130,7 @@ pub const DEVICE_ROYALKLUDGE_RK61: DeviceSpec = DeviceSpec {
 };
 
 pub const DEVICE_ROYALKLUDGE_RK61_TRI: DeviceSpec = DeviceSpec {
-    vendor_id: 0x258a,
+    vendor_id: 0x258A,
     product_id: 0x0055,
     ..DEVICE_BASE_SH68F90
 };
