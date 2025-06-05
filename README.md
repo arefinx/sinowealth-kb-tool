@@ -94,6 +94,7 @@ sinowealth-kb-tool write \
 | [Redragon K658 PRO SE](https://www.redragonzone.com/products/k658-pro-se-90-wireless-rgb-gaming-keyboard) | 3e0ebd0c440af5236d7ff8872343f85d | SH68F90A | BYK916 | ✅ | ✅ |
 | [Royal Kludge RK100](http://en.rkgaming.com/product/14/) | cfc8661da8c9d7e351b36c0a763426aa | SH68F90? | BYK916 | ✅ | ✅ |
 | [Royal Kludge RK61](http://en.rkgaming.com/product/11/) | 3e0ebd0c440af5236d7ff8872343f85d | SH68F90? | BYK916 | ✅ | ✅ |
+| [Royal Kludge RK61 Tri Mode](http://en.rkgaming.com/product/11/) | faf0060c5a626974c67105c840fee88e | SH68F90AS | ❓ | ✅ | ❓ |
 | Royal Kludge RK68 BT Dual | cfc8661da8c9d7e351b36c0a763426aa | SH68F90? | BYK901 | ✅ | ✅ |
 | Royal Kludge RK68 ISO Return | ❓ | SH68F90? | BYK916 | ✅ | ❓ |
 | [Royal Kludge RK71](http://en.rkgaming.com/product/12/) | cfc8661da8c9d7e351b36c0a763426aa | SH68F90? | ❓ | ✅ | ✅ |
